@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: #3a3e4d;
+}
+
+.btn {
+    -fx-background-color: #454545;
+    -fx-padding: 10, 15;
+    -fx-border-radius: 20px;
+}
+
+.label {
+    -fx-text-fill: red;
+    -fx-font-size: 14px;
+}
